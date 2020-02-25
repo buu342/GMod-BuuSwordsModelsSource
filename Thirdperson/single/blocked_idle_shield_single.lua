@@ -15,7 +15,7 @@ RegisterLuaAnimation('blocked_idle_shield_single', {
 				['ValveBiped.Bip01_L_Hand'] = {
 					RU = -29,
 					RR = -6,
-					RF = -3
+					RF = -18
 				},
 				['ValveBiped.Bip01_L_Finger11'] = {
 					RU = -53,
@@ -36,5 +36,5 @@ RegisterLuaAnimation('blocked_idle_shield_single', {
 			FrameRate = 100
 		},
 	},
-	Type = TYPE_POSTURE
+	Type = TYPE_GESTURE
 })

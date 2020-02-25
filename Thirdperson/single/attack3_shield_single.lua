@@ -9,7 +9,7 @@ RegisterLuaAnimation('attack3_shield_single', {
 				['ValveBiped.Bip01_L_Forearm'] = {
 					RU = 24,
 					RR = -25,
-					RF = 24
+					RF = -6
 				},
 				['ValveBiped.Bip01_L_Finger11'] = {
 					RU = -53,
@@ -49,7 +49,7 @@ RegisterLuaAnimation('attack3_shield_single', {
 				['ValveBiped.Bip01_L_Forearm'] = {
 					RU = 24,
 					RR = -25,
-					RF = 24
+					RF = -6
 				},
 				['ValveBiped.Bip01_L_Finger11'] = {
 					RU = -53,
@@ -87,7 +87,7 @@ RegisterLuaAnimation('attack3_shield_single', {
 				['ValveBiped.Bip01_L_Forearm'] = {
 					RU = 24,
 					RR = -25,
-					RF = 24
+					RF = -6
 				},
 				['ValveBiped.Bip01_L_Finger11'] = {
 					RU = -53,
@@ -128,7 +128,7 @@ RegisterLuaAnimation('attack3_shield_single', {
 				['ValveBiped.Bip01_L_Forearm'] = {
 					RU = 19,
 					RR = -20,
-					RF = 19
+					RF = -5
 				},
 				['ValveBiped.Bip01_L_Finger11'] = {
 					RU = -53,

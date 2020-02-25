@@ -23,24 +23,24 @@ RegisterLuaAnimation('attack2_double', {
 					RF = -55
 				},
 				['ValveBiped.Bip01_L_Clavicle'] = {
-					RU = -33,
-					RR = 23,
-					RF = 2
+					RU = -16,
+					RR = -48,
+					RF = -35
 				},
 				['ValveBiped.Bip01_L_UpperArm'] = {
-					RU = 24,
-					RR = 11,
-					RF = -6
+					RU = 1,
+					RR = -6,
+					RF = -20
 				},
 				['ValveBiped.Bip01_L_Forearm'] = {
-					RU = 28,
-					RR = -11,
-					RF = -28
+					RU = 65,
+					RR = -10,
+					RF = -45
 				},
 				['ValveBiped.Bip01_L_Hand'] = {
-					RU = -56,
-					RR = -14,
-					RF = 18
+					RU = -79,
+					RR = -18,
+					RF = 20
 				}
 			},
 			FrameRate = 100
@@ -70,7 +70,7 @@ RegisterLuaAnimation('attack2_double', {
 				['ValveBiped.Bip01_L_Clavicle'] = {
 					RU = -32,
 					RR = 24,
-					RF = 2
+					RF = 3
 				},
 				['ValveBiped.Bip01_L_UpperArm'] = {
 					RU = 24,
@@ -78,12 +78,12 @@ RegisterLuaAnimation('attack2_double', {
 					RF = -6
 				},
 				['ValveBiped.Bip01_L_Forearm'] = {
-					RU = 27,
+					RU = 26,
 					RR = -11,
 					RF = -28
 				},
 				['ValveBiped.Bip01_L_Hand'] = {
-					RU = -55,
+					RU = -54,
 					RR = -14,
 					RF = 18
 				}
@@ -98,39 +98,39 @@ RegisterLuaAnimation('attack2_double', {
 					RF = -20
 				},
 				['ValveBiped.Bip01_R_UpperArm'] = {
-					RU = -99,
-					RR = 36,
+					RU = -107,
+					RR = 43,
 					RF = 7
 				},
 				['ValveBiped.Bip01_R_Forearm'] = {
-					RU = 95,
-					RR = -10,
-					RF = 10
+					RU = 128,
+					RR = -27,
+					RF = -12
 				},
 				['ValveBiped.Bip01_R_Hand'] = {
 					RU = 5,
-					RR = 20,
-					RF = -92
+					RR = 21,
+					RF = -103
 				},
 				['ValveBiped.Bip01_L_Clavicle'] = {
-					RU = 13,
-					RR = -50,
-					RF = -34
+					RU = -2,
+					RR = -48,
+					RF = -26
 				},
 				['ValveBiped.Bip01_L_UpperArm'] = {
-					RU = 12,
-					RR = -14,
-					RF = -25
+					RU = 3,
+					RR = -5,
+					RF = -29
 				},
 				['ValveBiped.Bip01_L_Forearm'] = {
-					RU = 70,
-					RR = -11,
-					RF = -46
+					RU = 61,
+					RR = -15,
+					RF = -51
 				},
 				['ValveBiped.Bip01_L_Hand'] = {
-					RU = -87,
-					RR = -12,
-					RF = 18
+					RU = -79,
+					RR = -22,
+					RF = 21
 				}
 			},
 			FrameRate = 4.29
